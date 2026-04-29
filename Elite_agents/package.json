@@ -1,0 +1,13 @@
+
+{
+  "name": "mimo-enterprise-agent",
+  "version": "1.0.0",
+  "description": "High-performance Agentic Workflow for MiMo Ecosystem",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^5.0.0",
+    "langchain": "latest",
+    "@langchain/openai": "latest",
+    "express": "^4.18.2"
+  }
+}
