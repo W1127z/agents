@@ -1,8 +1,8 @@
 
-# MiMo-Enterprise-Agent (小米百万亿 Token 计划专用申请模板)
+#Enterprise-Agent
 
 ## 项目简介
-这是一个基于 **MiMo-V2.5-Pro** 开发的企业级 Agent 编排系统。它解决了大型知识库在复杂任务下的“幻觉”问题。
+这是 开发的企业级 Agent 编排系统。它解决了大型知识库在复杂任务下的“幻觉”问题。
 
 ## 技术亮点
 1. **多 Agent 协作架构**: 采用 Orchestrator 模式，分离检索与验证职责。
